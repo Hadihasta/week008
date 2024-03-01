@@ -1,0 +1,10 @@
+instal node.js dan NPM (di download di google)
+Npm install express 
+Npm install -g nodemon 
+npm install --save pg (connect pg admin to express)
+npm install -g db-migrate
+npm install -g db-migrate-pg
+
+Soal 1 db/seeding.sql
+soal 2 smallapp/film.js
+soal 3 migrations/sqls
